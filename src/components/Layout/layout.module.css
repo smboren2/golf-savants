@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+* {
+    background-color: rgb(243, 239, 239);
+}
+
+.container {
+    margin: auto;
+    max-width: 1200px;
+    padding: 0 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navbar {
+    color: #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px; /* Adjust the height as needed */
+}
+
+.heading {
+    color: #54436B;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    justify-content: flex-end; /* Align the links to the right */
+    align-items: center; /* Vertically center the links */
+    flex-grow: 1; /* Allow the links to grow and occupy available space */
+}
+
+.nav-link-item {
+    padding-right: 2rem;
+}
+
+.nav-link-text {
+    text-transform: capitalize;
+    color: #54436B;
+    text-decoration: none;
+    font-size: larger;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+/* Media Query for Responsiveness */
+@media (max-width: 768px) {
+    .nav-links {
+      flex-direction: column;
+      justify-content: flex-start; /* Align links to the top */
+    }
+  
+    .nav-link-item {
+      margin: 10px 0;
+    }
+  }
