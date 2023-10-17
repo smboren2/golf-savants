@@ -54,7 +54,7 @@ const Layout = ({ pageTitle, children }) => {
                           <li className={navLinkItem}>
                             <Link to={link.link} className={navLinkText}>{link.name}</Link>
                           </li>
-                          ))}
+                        ))}
                           <div className={dropdown}>
                             <button onClick={toggleDropdown} className={dropbtn}>
                                 Tools
