@@ -20,5 +20,14 @@ module.exports = {
         ],
     siteUrl: `https://www.golfsavants.com`
     },
-  plugins: [],
+  plugins: [
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'coursehist',
+        path: `${__dirname}/src/data`
+      }
+    },
+    'gatsby-transformer-csv',
+  ],
 }

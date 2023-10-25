@@ -1,0 +1,46 @@
+.data-table {
+    font-size: 0.85rem;
+    font-family: 'Quicksand', sans-serif;
+    width: 50%;
+    margin: auto;
+    border: 1px solid #ebe7e7;
+    
+}
+
+.top caption {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: #6c757d;
+    text-align: left;
+}
+
+thead {
+    color: black;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    position: sticky;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+td:hover {background-color: coral;}
+
+tr td:nth-child(1) {
+    text-align: left;
+}
+
+tr th:nth-child(1) {
+    text-align: left;
+}
+
+tbody tr td:nth-child(6) {
+    border-left: solid;
+    border-left-width: 2px;
+}
