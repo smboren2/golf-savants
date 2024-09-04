@@ -19,8 +19,8 @@ module.exports = {
         link: '/tools',
         subItems: [
           {
-            name: 'Score Calculator',
-            link: '/tools/score-calculator'
+            name: 'Course History',
+            link: '/course-history'
           },
           {
             name: 'Player Comparison',

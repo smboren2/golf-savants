@@ -1,0 +1,121 @@
+/* src/components/CourseHistoryTable.css */
+
+.table-wrapper {
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.table-container {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+.table-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+table {
+    width: 100%;
+    min-width: 650px;
+    border-collapse: collapse;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f8f8f8;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.tournament-name {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    background-color: #54436B;
+    color: white;
+}
+
+.subtitle {
+    font-size: 16px;
+    color: #666;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.year-cell {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.na { background-color: transparent; color: #333; }
+.cut, .dq { background-color: #54436B; }
+.first { background-color: #D4AF37; }
+.other { background-color: #50CB93; }
+
+@media screen and (max-width: 768px) {
+    .table-wrapper {
+        padding: 0 10px;
+    }
+
+    table {
+        font-size: 12px;
+    }
+
+    th, td {
+        padding: 8px;
+    }
+
+    .tournament-name {
+        font-size: 18px;
+        padding: 12px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .table-wrapper {
+        padding: 0 5px;
+    }
+
+    table {
+        font-size: 11px;
+    }
+
+    th, td {
+        padding: 6px;
+    }
+
+    .tournament-name {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .subtitle {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+}
