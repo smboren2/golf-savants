@@ -1,33 +1,62 @@
-/**
- * @type {import('gatsby').GatsbyConfig}
- */
 module.exports = {
   siteMetadata: {
     title: `Golf Savants`,
-    menuLinks:[
+    menuLinks: [
+      {
+        name: 'schedule',
+        link: '/schedule'
+      },
+      {
+        name: 'rankings',
+        link: '/rankings'
+      },
+      {
+        name: 'research',
+        link: '/research'
+      },
+      {
+        name: 'tools',
+        link: '/tools',
+        subItems: [
           {
-            name: 'schedule',
-            link: '/schedule'
+            name: 'Score Calculator',
+            link: '/tools/score-calculator'
           },
           {
-            name: 'rankings',
-            link: '/rankings'
+            name: 'Player Comparison',
+            link: '/tools/player-comparison'
           },
           {
-            name: 'research',
-            link: '/research'
+            name: 'Tournament Predictor',
+            link: '/tools/tournament-predictor'
           }
-        ],
-    siteUrl: `https://www.golfsavants.com`
-    },
-  plugins: [
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'coursehist',
-        path: `${__dirname}/src/data`
+        ]
       }
+    ]
+  },
+  plugins: [
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-image`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images`,
+      },
     },
-    'gatsby-transformer-csv',
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `golf-savants`,
+        short_name: `savants`,
+        start_url: `/`,
+        background_color: `#663399`,
+        theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `src/images/logo.png`,
+      },
+    },
   ],
 }
