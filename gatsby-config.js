@@ -23,8 +23,8 @@ module.exports = {
             link: '/course-history'
           },
           {
-            name: 'Player Comparison',
-            link: '/tools/player-comparison'
+            name: 'Matchup Tool',
+            link: '/matchup-tool'
           },
           {
             name: 'Tournament Predictor',
