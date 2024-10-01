@@ -18,8 +18,7 @@ thead {
     color: black;
     font-weight: bolder;
     text-transform: uppercase;
-    border-bottom: solid;
-    border-bottom-width: 2px;
+    border-bottom: 2px solid #54436B;
     position: sticky;
 }
 
@@ -30,7 +29,6 @@ td {
 th {
     text-align: center;
 }
-td:hover {background-color: coral;}
 
 tr td:nth-child(1) {
     text-align: left;
@@ -38,9 +36,4 @@ tr td:nth-child(1) {
 
 tr th:nth-child(1) {
     text-align: left;
-}
-
-tbody tr td:nth-child(6) {
-    border-left: solid;
-    border-left-width: 2px;
 }
