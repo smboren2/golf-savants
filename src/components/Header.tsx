@@ -31,9 +31,8 @@ const Header = () => {
             <Image 
               src="/images/logo.png" 
               alt="Golf Savants" 
-              fill
-              style={{ objectFit: 'contain' }}
-              priority
+              width={400}
+              height={200}
             />
           </Link>
         </div>
