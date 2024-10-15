@@ -1,0 +1,1337 @@
+{
+  "event_info": [
+    {
+      "event_id": 47,
+      "event_name": "Shriners Children's Open",
+      "course_name": "TPC Summerlin"
+    }
+  ],
+  "records": [
+    {
+      "dg_id": 14002,
+      "player_name": "Alexander, Tyson",
+      "dk_salary": 6000,
+      "draftkings": 150000,
+      "total_rounds": 6,
+      "sg_mean": -1.07,
+      "2023": "CUT",
+      "2022": "T64"
+    },
+    {
+      "dg_id": 6252,
+      "player_name": "Baddeley, Aaron",
+      "dk_salary": 6100,
+      "draftkings": 40000,
+      "total_rounds": 4,
+      "sg_mean": 1.02,
+      "2019": "T37"
+    },
+    {
+      "dg_id": 16566,
+      "player_name": "Barjon, Paul",
+      "dk_salary": 6100,
+      "draftkings": 100000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 17606,
+      "player_name": "Berger, Daniel",
+      "dk_salary": 7200,
+      "draftkings": 6000,
+      "total_rounds": 4,
+      "sg_mean": 1.52,
+      "2019": "T18"
+    },
+    {
+      "dg_id": 14775,
+      "player_name": "Bjork, Alexander",
+      "dk_salary": 6500,
+      "draftkings": 20000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 17639,
+      "player_name": "Blair, Zac",
+      "dk_salary": 6500,
+      "draftkings": 17000,
+      "total_rounds": 10,
+      "sg_mean": -1.63,
+      "2023": "T42",
+      "2022": "CUT",
+      "2019": "CUT",
+      "2020": "CUT"
+    },
+    {
+      "dg_id": 14698,
+      "player_name": "Bramlett, Joseph",
+      "dk_salary": 6700,
+      "draftkings": 10000,
+      "total_rounds": 8,
+      "sg_mean": -0.66,
+      "2022": "CUT",
+      "2020": "T43",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 10423,
+      "player_name": "Brehm, Ryan",
+      "dk_salary": 6000,
+      "draftkings": 100000,
+      "total_rounds": 6,
+      "sg_mean": -2.18,
+      "2023": "CUT",
+      "2022": "CUT",
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 29433,
+      "player_name": "Bridgeman, Jacob",
+      "dk_salary": 7100,
+      "draftkings": 7500,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 25363,
+      "player_name": "Buckley, Hayden",
+      "dk_salary": 6300,
+      "draftkings": 30000,
+      "total_rounds": 12,
+      "sg_mean": 0.69,
+      "2023": "T64",
+      "2022": "T20",
+      "2021": "T8"
+    },
+    {
+      "dg_id": 12909,
+      "player_name": "Campos, Rafael",
+      "dk_salary": 6200,
+      "draftkings": 40000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 14502,
+      "player_name": "Cauley, Bud",
+      "dk_salary": 6900,
+      "draftkings": 10000,
+      "total_rounds": 2,
+      "sg_mean": -1.45,
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 23542,
+      "player_name": "Champ, Cameron",
+      "dk_salary": 6800,
+      "draftkings": 12000,
+      "total_rounds": 10,
+      "sg_mean": -0.23,
+      "2023": "T18",
+      "2022": "CUT",
+      "2019": "CUT",
+      "2020": "CUT"
+    },
+    {
+      "dg_id": 21756,
+      "player_name": "Cole, Eric",
+      "dk_salary": 9000,
+      "draftkings": 3500,
+      "total_rounds": 6,
+      "sg_mean": 1.74,
+      "2023": "T3",
+      "2022": "CUT"
+    },
+    {
+      "dg_id": 28309,
+      "player_name": "Coody, Pierceson",
+      "dk_salary": 6500,
+      "draftkings": 15000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 27780,
+      "player_name": "Crowe, Trace",
+      "dk_salary": 6700,
+      "draftkings": 15000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 14509,
+      "player_name": "Dahmen, Joel",
+      "dk_salary": 6600,
+      "draftkings": 12000,
+      "total_rounds": 20,
+      "sg_mean": 1.21,
+      "2023": "T7",
+      "2022": "T37",
+      "2019": "T9",
+      "2020": "T58",
+      "2021": "T24"
+    },
+    {
+      "dg_id": 17786,
+      "player_name": "Davis, Cameron",
+      "dk_salary": 8800,
+      "draftkings": 3500,
+      "total_rounds": 16,
+      "sg_mean": 1.01,
+      "2023": "T7",
+      "2022": "T37",
+      "2020": "T52",
+      "2021": "T27"
+    },
+    {
+      "dg_id": 19738,
+      "player_name": "Dougherty, Kevin",
+      "dk_salary": 6100,
+      "draftkings": 40000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 22002,
+      "player_name": "Dumont de Chassart, Adrien",
+      "dk_salary": 6200,
+      "draftkings": 40000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 18187,
+      "player_name": "Duncan, Tyler",
+      "dk_salary": 6400,
+      "draftkings": 25000,
+      "total_rounds": 10,
+      "sg_mean": 0.34,
+      "2023": "T18",
+      "2022": "72",
+      "2020": "CUT"
+    },
+    {
+      "dg_id": 22833,
+      "player_name": "Echavarria, Nicolas",
+      "dk_salary": 6400,
+      "draftkings": 17000,
+      "total_rounds": 2,
+      "sg_mean": -0.7,
+      "2023": "CUT"
+    },
+    {
+      "dg_id": 26653,
+      "player_name": "Eckroat, Austin",
+      "dk_salary": 7600,
+      "draftkings": 6500,
+      "total_rounds": 6,
+      "sg_mean": -0.07,
+      "2023": "CUT",
+      "2022": "T60"
+    },
+    {
+      "dg_id": 14577,
+      "player_name": "English, Harris",
+      "dk_salary": 7900,
+      "draftkings": 4500,
+      "total_rounds": 8,
+      "sg_mean": 0.09,
+      "2022": "T28",
+      "2020": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 30027860,
+      "player_name": "Fioroni, Caden",
+      "dk_salary": 6200,
+      "draftkings": 50000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 25094,
+      "player_name": "Fishburn, Patrick",
+      "dk_salary": 7200,
+      "draftkings": 6000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 12965,
+      "player_name": "Fowler, Rickie",
+      "dk_salary": 7500,
+      "draftkings": 6000,
+      "total_rounds": 6,
+      "sg_mean": -1.01,
+      "2022": "CUT",
+      "2020": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 11889,
+      "player_name": "Fox, Ryan",
+      "dk_salary": 7600,
+      "draftkings": 6000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 24490,
+      "player_name": "Galletti, Nicolo",
+      "dk_salary": 6000,
+      "draftkings": 150000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 11451,
+      "player_name": "Garnett, Brice",
+      "dk_salary": 6400,
+      "draftkings": 25000,
+      "total_rounds": 6,
+      "sg_mean": 0.09,
+      "2020": "51",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 24550,
+      "player_name": "Ghim, Doug",
+      "dk_salary": 7300,
+      "draftkings": 5500,
+      "total_rounds": 10,
+      "sg_mean": 0.26,
+      "2023": "CUT",
+      "2022": "T56",
+      "2021": "T40"
+    },
+    {
+      "dg_id": 26953,
+      "player_name": "Gilligan, Ian",
+      "dk_salary": 6300,
+      "draftkings": 40000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 26660,
+      "player_name": "Gordon, Will",
+      "dk_salary": 6300,
+      "draftkings": 25000,
+      "total_rounds": 8,
+      "sg_mean": 0.22,
+      "2023": "CUT",
+      "2022": "T44",
+      "2020": "CUT"
+    },
+    {
+      "dg_id": 27774,
+      "player_name": "Gotterup, Chris",
+      "dk_salary": 6800,
+      "draftkings": 11000,
+      "total_rounds": 4,
+      "sg_mean": 0.5,
+      "2022": "T44"
+    },
+    {
+      "dg_id": 24968,
+      "player_name": "Griffin, Ben",
+      "dk_salary": 8200,
+      "draftkings": 4000,
+      "total_rounds": 6,
+      "sg_mean": -0.57,
+      "2023": "CUT",
+      "2022": "T60"
+    },
+    {
+      "dg_id": 15330,
+      "player_name": "Griffin, Lanto",
+      "dk_salary": 6600,
+      "draftkings": 17000,
+      "total_rounds": 14,
+      "sg_mean": 1.47,
+      "2023": "T13",
+      "2019": "T18",
+      "2020": "CUT",
+      "2021": "T6"
+    },
+    {
+      "dg_id": 12808,
+      "player_name": "Grillo, Emiliano",
+      "dk_salary": 7400,
+      "draftkings": 7500,
+      "total_rounds": 16,
+      "sg_mean": -0.27,
+      "2023": "CUT",
+      "2022": "T73",
+      "2019": "CUT",
+      "2020": "T34",
+      "2021": "T47"
+    },
+    {
+      "dg_id": 14967,
+      "player_name": "Hadley, Chesson",
+      "dk_salary": 7000,
+      "draftkings": 11000,
+      "total_rounds": 18,
+      "sg_mean": 1.14,
+      "2023": "T7",
+      "2022": "T37",
+      "2019": "T18",
+      "2020": "CUT",
+      "2021": "T27"
+    },
+    {
+      "dg_id": 13965,
+      "player_name": "Hadwin, Adam",
+      "dk_salary": 8900,
+      "draftkings": 4000,
+      "total_rounds": 20,
+      "sg_mean": 2.16,
+      "2023": "2",
+      "2022": "T10",
+      "2019": "T4",
+      "2020": "T34",
+      "2021": "T6"
+    },
+    {
+      "dg_id": 27194,
+      "player_name": "Hall, Harry",
+      "dk_salary": 8400,
+      "draftkings": 4500,
+      "total_rounds": 12,
+      "sg_mean": 1.69,
+      "2023": "T26",
+      "2022": "T15",
+      "2021": "T8"
+    },
+    {
+      "dg_id": 19865,
+      "player_name": "Hardy, Nick",
+      "dk_salary": 7000,
+      "draftkings": 8000,
+      "total_rounds": 8,
+      "sg_mean": 0.15,
+      "2023": "55",
+      "2022": "T44"
+    },
+    {
+      "dg_id": 24342,
+      "player_name": "Higgo, Garrick",
+      "dk_salary": 6200,
+      "draftkings": 30000,
+      "total_rounds": 8,
+      "sg_mean": 0,
+      "2023": "T46",
+      "2022": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 28469,
+      "player_name": "Highsmith, Joe",
+      "dk_salary": 6900,
+      "draftkings": 10000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 25157,
+      "player_name": "Hodges, Lee",
+      "dk_salary": 6900,
+      "draftkings": 10000,
+      "total_rounds": 6,
+      "sg_mean": 0.54,
+      "2022": "CUT",
+      "2021": "T27"
+    },
+    {
+      "dg_id": 23504,
+      "player_name": "Hoey, Rico",
+      "dk_salary": 6900,
+      "draftkings": 9000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 5768,
+      "player_name": "Hoffman, Charley",
+      "dk_salary": 7300,
+      "draftkings": 8000,
+      "total_rounds": 14,
+      "sg_mean": -1.07,
+      "2023": "CUT",
+      "2022": "CUT",
+      "2019": "T74",
+      "2020": "CUT",
+      "2021": "T44"
+    },
+    {
+      "dg_id": 14082,
+      "player_name": "Hoffmann, Morgan",
+      "dk_salary": 6100,
+      "draftkings": 35000,
+      "total_rounds": 2,
+      "sg_mean": -1.95,
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 15575,
+      "player_name": "Hoge, Tom",
+      "dk_salary": 9800,
+      "draftkings": 3000,
+      "total_rounds": 14,
+      "sg_mean": 1.47,
+      "2023": "CUT",
+      "2022": "T4",
+      "2020": "T24",
+      "2021": "T14"
+    },
+    {
+      "dg_id": 15470,
+      "player_name": "Hossler, Beau",
+      "dk_salary": 9500,
+      "draftkings": 2800,
+      "total_rounds": 16,
+      "sg_mean": 1.02,
+      "2023": "T7",
+      "2022": "T64",
+      "2019": "T29",
+      "2020": "T34"
+    },
+    {
+      "dg_id": 16333,
+      "player_name": "Hubbard, Mark",
+      "dk_salary": 7000,
+      "draftkings": 9000,
+      "total_rounds": 16,
+      "sg_mean": 0.43,
+      "2023": "CUT",
+      "2022": "T28",
+      "2019": "T42",
+      "2020": "CUT",
+      "2021": "T44"
+    },
+    {
+      "dg_id": 16394,
+      "player_name": "Jaeger, Stephan",
+      "dk_salary": 9900,
+      "draftkings": 3000,
+      "total_rounds": 6,
+      "sg_mean": -0.24,
+      "2022": "T44",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 15004,
+      "player_name": "Kim, Chan",
+      "dk_salary": 7600,
+      "draftkings": 5500,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 17543,
+      "player_name": "Kim, Michael",
+      "dk_salary": 6700,
+      "draftkings": 11000,
+      "total_rounds": 10,
+      "sg_mean": -0.73,
+      "2023": "T18",
+      "2022": "CUT",
+      "2019": "CUT",
+      "2020": "CUT"
+    },
+    {
+      "dg_id": 21688,
+      "player_name": "Kim, Seonghyeon",
+      "dk_salary": 6500,
+      "draftkings": 25000,
+      "total_rounds": 6,
+      "sg_mean": 1.26,
+      "2023": "CUT",
+      "2022": "T4"
+    },
+    {
+      "dg_id": 24766,
+      "player_name": "Kim, Tom",
+      "dk_salary": 10800,
+      "draftkings": 1200,
+      "total_rounds": 8,
+      "sg_mean": 3.4,
+      "2023": "1",
+      "2022": "1"
+    },
+    {
+      "dg_id": 11328,
+      "player_name": "Kisner, Kevin",
+      "dk_salary": 6000,
+      "draftkings": 250000,
+      "total_rounds": 2,
+      "sg_mean": -1.23,
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 21891,
+      "player_name": "Kitayama, Kurt",
+      "dk_salary": 9700,
+      "draftkings": 3000,
+      "total_rounds": 4,
+      "sg_mean": -0.42,
+      "2022": "CUT",
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 13470,
+      "player_name": "Kizzire, Patton",
+      "dk_salary": 7300,
+      "draftkings": 6000,
+      "total_rounds": 18,
+      "sg_mean": -0.06,
+      "2023": "T46",
+      "2022": "T75",
+      "2019": "T42",
+      "2020": "T24",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 16395,
+      "player_name": "Kohles, Ben",
+      "dk_salary": 7000,
+      "draftkings": 11000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 6169,
+      "player_name": "Kuchar, Matt",
+      "dk_salary": 7300,
+      "draftkings": 6500,
+      "total_rounds": 8,
+      "sg_mean": 0.75,
+      "2020": "T34",
+      "2021": "T35"
+    },
+    {
+      "dg_id": 9586,
+      "player_name": "Laird, Martin",
+      "dk_salary": 6500,
+      "draftkings": 15000,
+      "total_rounds": 18,
+      "sg_mean": 1.37,
+      "2023": "CUT",
+      "2022": "T37",
+      "2019": "T48",
+      "2020": "1",
+      "2021": "T11"
+    },
+    {
+      "dg_id": 24343,
+      "player_name": "Lamprecht, Christo",
+      "dk_salary": 6300,
+      "draftkings": 25000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 10943,
+      "player_name": "Lashley, Nate",
+      "dk_salary": 6500,
+      "draftkings": 17000,
+      "total_rounds": 18,
+      "sg_mean": 0.08,
+      "2023": "T42",
+      "2022": "CUT",
+      "2019": "62",
+      "2020": "T52",
+      "2021": "T35"
+    },
+    {
+      "dg_id": 13497,
+      "player_name": "Lee, Kyounghoon",
+      "dk_salary": 6900,
+      "draftkings": 9000,
+      "total_rounds": 16,
+      "sg_mean": 0.53,
+      "2023": "T7",
+      "2022": "T37",
+      "2019": "CUT",
+      "2020": "CUT",
+      "2021": "T14"
+    },
+    {
+      "dg_id": 15980,
+      "player_name": "Lipsky, David",
+      "dk_salary": 6400,
+      "draftkings": 25000,
+      "total_rounds": 6,
+      "sg_mean": -0.74,
+      "2023": "CUT",
+      "2022": "T44"
+    },
+    {
+      "dg_id": 7960,
+      "player_name": "List, Luke",
+      "dk_salary": 6600,
+      "draftkings": 20000,
+      "total_rounds": 12,
+      "sg_mean": 0.92,
+      "2023": "T18",
+      "2019": "T13",
+      "2020": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 17723,
+      "player_name": "Lower, Justin",
+      "dk_salary": 7200,
+      "draftkings": 7500,
+      "total_rounds": 6,
+      "sg_mean": 0.43,
+      "2023": "CUT",
+      "2022": "T20"
+    },
+    {
+      "dg_id": 14926,
+      "player_name": "Malnati, Peter",
+      "dk_salary": 6200,
+      "draftkings": 25000,
+      "total_rounds": 10,
+      "sg_mean": -0.68,
+      "2023": "CUT",
+      "2019": "CUT",
+      "2020": "T5",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 10054370,
+      "player_name": "Matthewson, Erik",
+      "dk_salary": 6000,
+      "draftkings": 250000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 11594,
+      "player_name": "McCarthy, Dan",
+      "dk_salary": 6000,
+      "draftkings": 50000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 28635,
+      "player_name": "McCarty, Matt",
+      "dk_salary": 9100,
+      "draftkings": 3500,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 18536,
+      "player_name": "McCormick, Ryan",
+      "dk_salary": 6000,
+      "draftkings": 100000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 18634,
+      "player_name": "McNealy, Maverick",
+      "dk_salary": 8600,
+      "draftkings": 4000,
+      "total_rounds": 12,
+      "sg_mean": 0.57,
+      "2022": "T10",
+      "2019": "T37",
+      "2020": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 13367,
+      "player_name": "Merritt, Troy",
+      "dk_salary": 6200,
+      "draftkings": 25000,
+      "total_rounds": 16,
+      "sg_mean": -0.68,
+      "2023": "T64",
+      "2022": "CUT",
+      "2019": "T63",
+      "2020": "T43",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 17365,
+      "player_name": "Mitchell, Keith",
+      "dk_salary": 9200,
+      "draftkings": 3000,
+      "total_rounds": 10,
+      "sg_mean": -0.72,
+      "2022": "T60",
+      "2019": "CUT",
+      "2020": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 7655,
+      "player_name": "Molinari, Francesco",
+      "dk_salary": 6100,
+      "draftkings": 40000,
+      "total_rounds": 6,
+      "sg_mean": -0.97,
+      "2020": "CUT",
+      "2021": "T67"
+    },
+    {
+      "dg_id": 25442,
+      "player_name": "Montgomery, Taylor",
+      "dk_salary": 6400,
+      "draftkings": 30000,
+      "total_rounds": 8,
+      "sg_mean": 1.15,
+      "2023": "T35",
+      "2022": "T15"
+    },
+    {
+      "dg_id": 7489,
+      "player_name": "Moore, Ryan",
+      "dk_salary": 6600,
+      "draftkings": 12000,
+      "total_rounds": 14,
+      "sg_mean": 1.42,
+      "2023": "T13",
+      "2022": "T28",
+      "2019": "T13",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 21944,
+      "player_name": "Moore, Taylor",
+      "dk_salary": 7300,
+      "draftkings": 7000,
+      "total_rounds": 6,
+      "sg_mean": 0.2,
+      "2022": "CUT",
+      "2021": "T24"
+    },
+    {
+      "dg_id": 18761,
+      "player_name": "Mullinax, Trey",
+      "dk_salary": 6700,
+      "draftkings": 11000,
+      "total_rounds": 4,
+      "sg_mean": -0.25,
+      "2021": "T56"
+    },
+    {
+      "dg_id": 16433,
+      "player_name": "NeSmith, Matthew",
+      "dk_salary": 6900,
+      "draftkings": 12000,
+      "total_rounds": 20,
+      "sg_mean": 1.76,
+      "2023": "T42",
+      "2022": "T2",
+      "2019": "T18",
+      "2020": "T8",
+      "2021": "T14"
+    },
+    {
+      "dg_id": 11657,
+      "player_name": "Norlander, Henrik",
+      "dk_salary": 7000,
+      "draftkings": 10000,
+      "total_rounds": 16,
+      "sg_mean": -0.66,
+      "2023": "T35",
+      "2022": "CUT",
+      "2019": "CUT",
+      "2020": "T58",
+      "2021": "T65"
+    },
+    {
+      "dg_id": 23475,
+      "player_name": "Novak, Andrew",
+      "dk_salary": 7200,
+      "draftkings": 5500,
+      "total_rounds": 4,
+      "sg_mean": -1.07,
+      "2023": "CUT",
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 7820,
+      "player_name": "Palmer, Ryan",
+      "dk_salary": 6100,
+      "draftkings": 50000,
+      "total_rounds": 14,
+      "sg_mean": 0.03,
+      "2023": "CUT",
+      "2022": "CUT",
+      "2019": "T37",
+      "2020": "T34",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 15475,
+      "player_name": "Pan, C.T.",
+      "dk_salary": 6700,
+      "draftkings": 10000,
+      "total_rounds": 7,
+      "sg_mean": -0.87,
+      "2023": "WD",
+      "2019": "CUT",
+      "2020": "T52"
+    },
+    {
+      "dg_id": 17780,
+      "player_name": "Pendrith, Taylor",
+      "dk_salary": 10200,
+      "draftkings": 2500,
+      "total_rounds": 12,
+      "sg_mean": 1.02,
+      "2023": "T3",
+      "2022": "T44",
+      "2021": "T47"
+    },
+    {
+      "dg_id": 27164,
+      "player_name": "Phillips, Chandler",
+      "dk_salary": 7100,
+      "draftkings": 8000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 7899,
+      "player_name": "Piercy, Scott",
+      "dk_salary": 6300,
+      "draftkings": 20000,
+      "total_rounds": 14,
+      "sg_mean": -0.28,
+      "2023": "T42",
+      "2022": "CUT",
+      "2019": "CUT",
+      "2020": "T19",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 21554,
+      "player_name": "Poston, J.T.",
+      "dk_salary": 8100,
+      "draftkings": 4000,
+      "total_rounds": 16,
+      "sg_mean": 0.99,
+      "2023": "T3",
+      "2022": "T20",
+      "2019": "CUT",
+      "2020": "T27",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 10104,
+      "player_name": "Power, Seamus",
+      "dk_salary": 9300,
+      "draftkings": 3000,
+      "total_rounds": 6,
+      "sg_mean": 1.03,
+      "2022": "CUT",
+      "2021": "T21"
+    },
+    {
+      "dg_id": 14704,
+      "player_name": "Putnam, Andrew",
+      "dk_salary": 7700,
+      "draftkings": 5000,
+      "total_rounds": 18,
+      "sg_mean": 0.76,
+      "2023": "CUT",
+      "2022": "T12",
+      "2019": "T18",
+      "2020": "T58",
+      "2021": "T11"
+    },
+    {
+      "dg_id": 19840,
+      "player_name": "Ramey, Chad",
+      "dk_salary": 6800,
+      "draftkings": 10000,
+      "total_rounds": 12,
+      "sg_mean": 1.02,
+      "2023": "T46",
+      "2022": "T28",
+      "2021": "T14"
+    },
+    {
+      "dg_id": 7961,
+      "player_name": "Reavie, Chez",
+      "dk_salary": 6300,
+      "draftkings": 25000,
+      "total_rounds": 12,
+      "sg_mean": -1.46,
+      "2023": "CUT",
+      "2022": "CUT",
+      "2019": "CUT",
+      "2020": "63",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 19872,
+      "player_name": "Riley, Davis",
+      "dk_salary": 6600,
+      "draftkings": 15000,
+      "total_rounds": 8,
+      "sg_mean": 0.41,
+      "2023": "T28",
+      "2021": "T56"
+    },
+    {
+      "dg_id": 16715,
+      "player_name": "Ryder, Sam",
+      "dk_salary": 6500,
+      "draftkings": 12000,
+      "total_rounds": 16,
+      "sg_mean": 0.63,
+      "2023": "T28",
+      "2022": "T28",
+      "2019": "T18",
+      "2020": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 19477,
+      "player_name": "Schenk, Adam",
+      "dk_salary": 6800,
+      "draftkings": 12000,
+      "total_rounds": 18,
+      "sg_mean": 1.54,
+      "2023": "CUT",
+      "2022": "T12",
+      "2019": "T18",
+      "2020": "T27",
+      "2021": "T3"
+    },
+    {
+      "dg_id": 20722,
+      "player_name": "Schmid, Matthias",
+      "dk_salary": 7800,
+      "draftkings": 4500,
+      "total_rounds": 4,
+      "sg_mean": 1.31,
+      "2023": "T26"
+    },
+    {
+      "dg_id": 18635,
+      "player_name": "Shelton, Robby",
+      "dk_salary": 6200,
+      "draftkings": 25000,
+      "total_rounds": 14,
+      "sg_mean": 0.76,
+      "2023": "CUT",
+      "2022": "T15",
+      "2019": "T42",
+      "2020": "T34"
+    },
+    {
+      "dg_id": 32055,
+      "player_name": "Shipley, Neal",
+      "dk_salary": 7200,
+      "draftkings": 6000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 23482,
+      "player_name": "Sigg, Greyson",
+      "dk_salary": 6700,
+      "draftkings": 9000,
+      "total_rounds": 12,
+      "sg_mean": 0.52,
+      "2023": "T28",
+      "2022": "T44",
+      "2021": "T47"
+    },
+    {
+      "dg_id": 17381,
+      "player_name": "Silverman, Ben",
+      "dk_salary": 7400,
+      "draftkings": 7500,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 11049,
+      "player_name": "Simpson, Webb",
+      "dk_salary": 7200,
+      "draftkings": 7500,
+      "total_rounds": 14,
+      "sg_mean": 1.28,
+      "2023": "T46",
+      "2019": "T7",
+      "2020": "T13",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 10873,
+      "player_name": "Skinns, David",
+      "dk_salary": 6600,
+      "draftkings": 15000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 14050,
+      "player_name": "Sloan, Roger",
+      "dk_salary": 6400,
+      "draftkings": 25000,
+      "total_rounds": 4,
+      "sg_mean": -0.84,
+      "2019": "CUT",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 18474,
+      "player_name": "Smalley, Alex",
+      "dk_salary": 7100,
+      "draftkings": 7500,
+      "total_rounds": 8,
+      "sg_mean": -0.34,
+      "2023": "T61",
+      "2021": "T47"
+    },
+    {
+      "dg_id": 17536,
+      "player_name": "Spaun, J.J.",
+      "dk_salary": 7900,
+      "draftkings": 4000,
+      "total_rounds": 14,
+      "sg_mean": 0.67,
+      "2023": "T46",
+      "2022": "T15",
+      "2019": "CUT",
+      "2021": "T35"
+    },
+    {
+      "dg_id": 21995,
+      "player_name": "Springer, Hayden",
+      "dk_salary": 6800,
+      "draftkings": 12000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 25569,
+      "player_name": "Stevens, Samuel",
+      "dk_salary": 7400,
+      "draftkings": 6500,
+      "total_rounds": 4,
+      "sg_mean": 0.31,
+      "2023": "T46"
+    },
+    {
+      "dg_id": 8480,
+      "player_name": "Streelman, Kevin",
+      "dk_salary": 6600,
+      "draftkings": 12000,
+      "total_rounds": 14,
+      "sg_mean": -0.58,
+      "2023": "CUT",
+      "2022": "T20",
+      "2019": "CUT",
+      "2020": "CUT",
+      "2021": "T47"
+    },
+    {
+      "dg_id": 22050,
+      "player_name": "Suh, Justin",
+      "dk_salary": 6800,
+      "draftkings": 12000,
+      "total_rounds": 10,
+      "sg_mean": 0.54,
+      "2023": "T56",
+      "2022": "CUT",
+      "2020": "T8"
+    },
+    {
+      "dg_id": 13997,
+      "player_name": "Svensson, Adam",
+      "dk_salary": 7500,
+      "draftkings": 5500,
+      "total_rounds": 10,
+      "sg_mean": -0.12,
+      "2023": "T18",
+      "2022": "T69",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 20519,
+      "player_name": "Tarren, Callum",
+      "dk_salary": 6100,
+      "draftkings": 50000,
+      "total_rounds": 6,
+      "sg_mean": 1.07,
+      "2023": "T23",
+      "2022": "CUT"
+    },
+    {
+      "dg_id": 19948,
+      "player_name": "Taylor, Ben",
+      "dk_salary": 6100,
+      "draftkings": 40000,
+      "total_rounds": 10,
+      "sg_mean": 0.85,
+      "2023": "T28",
+      "2022": "CUT",
+      "2019": "T29"
+    },
+    {
+      "dg_id": 13126,
+      "player_name": "Taylor, Nick",
+      "dk_salary": 7100,
+      "draftkings": 6000,
+      "total_rounds": 16,
+      "sg_mean": 0.42,
+      "2023": "T13",
+      "2022": "CUT",
+      "2019": "T29",
+      "2020": "CUT",
+      "2021": "T47"
+    },
+    {
+      "dg_id": 27364,
+      "player_name": "Thompson, Davis",
+      "dk_salary": 10300,
+      "draftkings": 2500,
+      "total_rounds": 8,
+      "sg_mean": 1.28,
+      "2023": "T35",
+      "2022": "T12"
+    },
+    {
+      "dg_id": 26649,
+      "player_name": "Thorbjornsen, Michael",
+      "dk_salary": 7500,
+      "draftkings": 6000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 12425,
+      "player_name": "Todd, Brendon",
+      "dk_salary": 7400,
+      "draftkings": 7000,
+      "total_rounds": 6,
+      "sg_mean": 0.01,
+      "2022": "T28",
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 17032,
+      "player_name": "Tosti, Alejandro",
+      "dk_salary": 6300,
+      "draftkings": 25000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 23816,
+      "player_name": "Valimaki, Sami",
+      "dk_salary": 6600,
+      "draftkings": 15000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 17550,
+      "player_name": "Van Rooyen, Erik",
+      "dk_salary": 7700,
+      "draftkings": 7000,
+      "total_rounds": 6,
+      "sg_mean": -0.7,
+      "2023": "T23",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 13508,
+      "player_name": "Vegas, Jhonattan",
+      "dk_salary": 8000,
+      "draftkings": 4500,
+      "total_rounds": 2,
+      "sg_mean": -2.95,
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 9171,
+      "player_name": "Villegas, Camilo",
+      "dk_salary": 6000,
+      "draftkings": 250000,
+      "total_rounds": 6,
+      "sg_mean": 0.2,
+      "2020": "CUT",
+      "2021": "T35"
+    },
+    {
+      "dg_id": 25908,
+      "player_name": "Whaley, Vince",
+      "dk_salary": 7000,
+      "draftkings": 12000,
+      "total_rounds": 6,
+      "sg_mean": 1.07,
+      "2023": "T13",
+      "2022": "CUT"
+    },
+    {
+      "dg_id": 20353,
+      "player_name": "Whitney, Tom",
+      "dk_salary": 6200,
+      "draftkings": 25000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 12920,
+      "player_name": "Willett, Danny",
+      "dk_salary": 6000,
+      "draftkings": 60000,
+      "total_rounds": 4,
+      "sg_mean": 1.5,
+      "2021": "T21"
+    },
+    {
+      "dg_id": 12577,
+      "player_name": "Woodland, Gary",
+      "dk_salary": 7100,
+      "draftkings": 10000,
+      "total_rounds": 5,
+      "sg_mean": 0.49,
+      "2022": "WD",
+      "2019": "T55"
+    },
+    {
+      "dg_id": 25213,
+      "player_name": "Wu, Brandon",
+      "dk_salary": 6400,
+      "draftkings": 25000,
+      "total_rounds": 6,
+      "sg_mean": -0.58,
+      "2022": "T56",
+      "2021": "CUT"
+    },
+    {
+      "dg_id": 25002,
+      "player_name": "Wu, Dylan",
+      "dk_salary": 6400,
+      "draftkings": 20000,
+      "total_rounds": 4,
+      "sg_mean": -1.32,
+      "2023": "CUT",
+      "2019": "CUT"
+    },
+    {
+      "dg_id": 24354,
+      "player_name": "Xiong, Norman",
+      "dk_salary": 6100,
+      "draftkings": 30000,
+      "total_rounds": 0
+    },
+    {
+      "dg_id": 23656,
+      "player_name": "Young, Carson",
+      "dk_salary": 6700,
+      "draftkings": 12000,
+      "total_rounds": 4,
+      "sg_mean": -1.3,
+      "2023": "CUT",
+      "2022": "CUT"
+    },
+    {
+      "dg_id": 17881,
+      "player_name": "Yu, Kevin",
+      "dk_salary": 7800,
+      "draftkings": 7000,
+      "total_rounds": 10,
+      "sg_mean": 0.36,
+      "2023": "CUT",
+      "2022": "T37",
+      "2021": "T27"
+    },
+    {
+      "dg_id": 17266,
+      "player_name": "Yuan, Carl",
+      "dk_salary": 6300,
+      "draftkings": 30000,
+      "total_rounds": 6,
+      "sg_mean": -0.26,
+      "2023": "T52",
+      "2022": "CUT"
+    }
+  ]
+}
