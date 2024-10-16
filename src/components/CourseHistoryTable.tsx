@@ -49,7 +49,7 @@ const CourseHistoryTable: React.FC<CourseHistoryTableProps> = ({ data }) => {
   };
 
   const sortedData = useMemo(() => {
-    let sortableItems = [...players];
+    const sortableItems = [...players];
     if (sortConfig !== null) {
       sortableItems.sort((a, b) => {
         if (a[sortConfig.key] == null && b[sortConfig.key] == null) return 0;
